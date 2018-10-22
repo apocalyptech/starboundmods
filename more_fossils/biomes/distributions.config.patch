@@ -1,0 +1,7 @@
+[
+    {
+        "op": "replace",
+        "path": "/undergroundFossils/blockProbability",
+        "value": 0.0015
+    }
+]

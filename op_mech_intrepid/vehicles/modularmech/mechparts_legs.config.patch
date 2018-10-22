@@ -1,0 +1,10 @@
+[
+    {
+        "op": "replace",
+        "path": "/intrepid/stats",
+        "value": {
+            "speed": 7,
+            "jump": 7
+        }
+    }
+]

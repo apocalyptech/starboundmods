@@ -1,0 +1,9 @@
+{
+ "version" : "1.00",
+ "friendlyName" : "More Durasteel",
+ "link" : "",
+ "steamContentId" : "",
+ "name" : "More Durasteel",
+ "description" : "Makes Durasteel more common (by 1.5x) on the biomes which feature it (does not add it anywhere new, though)",
+ "author" : "CJ Kucera"
+}

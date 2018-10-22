@@ -1,0 +1,9 @@
+{
+ "version" : "1.00",
+ "friendlyName" : "More Boneboo",
+ "link" : "",
+ "steamContentId" : "",
+ "name" : "More Boneboo",
+ "description" : "Makes Boneboo more common in 'bones' biomes (upgraded from 'surfaceCrops' to 'denseSurfaceCrops')",
+ "author" : "CJ Kucera"
+}

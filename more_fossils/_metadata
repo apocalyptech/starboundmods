@@ -1,0 +1,9 @@
+{
+ "version" : "1.00",
+ "friendlyName" : "More Fossils",
+ "link" : "",
+ "steamContentId" : "",
+ "name" : "More Fossils",
+ "description" : "Makes Fossils more common (by 3x) on the biomes which feature it (does not add them anywhere new, though)",
+ "author" : "CJ Kucera"
+}

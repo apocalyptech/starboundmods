@@ -1,0 +1,22 @@
+{
+  "itemName" : "omegaaugment",
+  "price" : 100000,
+  "rarity" : "Legendary",
+  "tooltipKind" : "eppaugment",
+  "category" : "eppAugment",
+  "inventoryIcon" : "omegaaugment.png",
+  "description" : "An EPP module with almost undescribable power.",
+  "shortdescription" : "Omega Augment",
+
+  "augment" : {
+    "type" : "back",
+    "name" : "omega",
+    "displayName" : "Omega",
+    "displayIcon" : "/items/augments/back/omegaaugment.png",
+    "effects" : [ "rageaugment3", "maxenergyboostaugment3", "regenerationaugment3", "maxhealthboostaugment3", "lightaugment3", "electricblockaugment", "fireblockaugment", "iceblockaugment", "poisonblockaugment", "lowgravaugment", "jumpboostaugment", "runboostaugment", "swimboost", "thornsaugment" ]
+  },
+
+  "radioMessagesOnPickup" : [ "pickupaugment" ],
+
+  "scripts" : [ "/scripts/augments/augment.lua" ]
+}

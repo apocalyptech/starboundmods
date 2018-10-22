@@ -1,0 +1,7 @@
+[
+    {
+        "op": "replace",
+        "path": "/surfacePlaceables/items/6/distribution",
+        "value": "/biomes/distributions.config:denseSurfaceCrops"
+    }
+]

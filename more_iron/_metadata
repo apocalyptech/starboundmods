@@ -1,0 +1,9 @@
+{
+ "version" : "1.00",
+ "friendlyName" : "More Iron",
+ "link" : "",
+ "steamContentId" : "",
+ "name" : "More Iron",
+ "description" : "Makes Iron more common (by 1.5x) on the biomes which feature it (does not add it anywhere new, though)",
+ "author" : "CJ Kucera"
+}

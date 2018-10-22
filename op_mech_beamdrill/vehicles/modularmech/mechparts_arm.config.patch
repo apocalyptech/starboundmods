@@ -1,0 +1,30 @@
+[
+    {
+        "op": "replace",
+        "path": "/beamdrill/stats",
+        "value": {
+            "power": 7,
+            "energy": 3
+        }
+    },
+    {
+        "op": "replace",
+        "path": "/beamdrill/partParameters/windupTime",
+        "value": 0.1
+    },
+    {
+        "op": "replace",
+        "path": "/beamdrill/partParameters/winddownTime",
+        "value": 0.1
+    },
+    {
+        "op": "replace",
+        "path": "/beamdrill/partParameters/beamTileDamage",
+        "value": 12
+    },
+    {
+        "op": "replace",
+        "path": "/beamdrill/damageSources/<armName>Beam/damage",
+        "value": 32
+    }
+]

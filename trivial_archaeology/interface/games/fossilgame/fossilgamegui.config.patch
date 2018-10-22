@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/toolRockChance",
+        "value": 0.00
+    },
+    {
+        "op": "replace",
+        "path": "/randomRockChance",
+        "value": 0.00
+    }
+]

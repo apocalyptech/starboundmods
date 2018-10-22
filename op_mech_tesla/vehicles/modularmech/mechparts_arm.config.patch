@@ -1,0 +1,25 @@
+[
+    {
+        "op": "replace",
+        "path": "/teslastream/stats",
+        "value": {
+            "power": 7,
+            "energy": 3
+        }
+    },
+    {
+        "op": "replace",
+        "path": "/teslastream/partParameters/windupTime",
+        "value": 0.1
+    },
+    {
+        "op": "replace",
+        "path": "/teslastream/partParameters/fireTime",
+        "value": 0.06
+    },
+    {
+        "op": "replace",
+        "path": "/teslastream/partParameters/projectileParameters/power",
+        "value": 128
+    }
+]

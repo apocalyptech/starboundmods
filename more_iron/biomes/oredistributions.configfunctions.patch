@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/surface/0/1/6/1",
+        "value": 0.9
+    },
+    {
+        "op": "replace",
+        "path": "/depth1/0/1/6/1",
+        "value": 1.125
+    },
+    {
+        "op": "replace",
+        "path": "/depth1/1/1/6/1",
+        "value": 0.75
+    },
+    {
+        "op": "replace",
+        "path": "/depth2/0/1/6/1",
+        "value": 1.35
+    },
+    {
+        "op": "replace",
+        "path": "/depth2/1/1/6/1",
+        "value": 0.975
+    },
+    {
+        "op": "replace",
+        "path": "/depth3/0/1/6/1",
+        "value": 1.5
+    },
+    {
+        "op": "replace",
+        "path": "/depth3/1/1/6/1",
+        "value": 1.2
+    },
+    {
+        "op": "replace",
+        "path": "/core/0/1/6/1",
+        "value": 1.5
+    },
+    {
+        "op": "replace",
+        "path": "/core/1/1/6/1",
+        "value": 1.2
+    }
+]

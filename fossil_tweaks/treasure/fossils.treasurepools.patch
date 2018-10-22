@@ -1,0 +1,32 @@
+[
+    {
+        "op": "test",
+        "path": "/fossilshallow1/0/1/pool/1/weight",
+        "value": 0.8
+    },
+    {
+        "op": "test",
+        "path": "/fossilshallow2/0/1/pool/1/weight",
+        "value": 0.8
+    },
+    {
+        "op": "test",
+        "path": "/humanoidfossil/0/1/pool/0/weight",
+        "value": 50
+    },
+    {
+        "op": "test",
+        "path": "/humanoidfossil/0/1/pool/3/weight",
+        "value": 50
+    },
+    {
+        "op": "test",
+        "path": "/humanoidfossil/0/1/pool/5/weight",
+        "value": 50
+    },
+    {
+        "op": "test",
+        "path": "/humanoidfossil/0/1/pool/14/weight",
+        "value": 50
+    }
+]

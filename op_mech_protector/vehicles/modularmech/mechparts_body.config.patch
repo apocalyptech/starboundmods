@@ -1,0 +1,10 @@
+[
+    {
+        "op": "replace",
+        "path": "/protector/stats",
+        "value": {
+            "energy": 7,
+            "protection": 7
+        }
+    }
+]

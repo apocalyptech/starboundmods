@@ -1,0 +1,10 @@
+[
+    {
+        "op": "replace",
+        "path": "/zero/stats",
+        "value": {
+            "speed": 7,
+            "control": 7
+        }
+    }
+]

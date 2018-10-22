@@ -1,0 +1,22 @@
+[
+    {
+        "op": "replace",
+        "path": "/leveledStatusEffects/0/baseMultiplier",
+        "value": 1.2
+    },
+    {
+        "op": "replace",
+        "path": "/leveledStatusEffects/1/amount",
+        "value": 0.4
+    },
+    {
+        "op": "replace",
+        "path": "/leveledStatusEffects/2/amount",
+        "value": 4
+    },
+    {
+        "op": "replace",
+        "path": "/leveledStatusEffects/3/amount",
+        "value": 4
+    }
+]
