@@ -1,0 +1,558 @@
+[
+    {
+        "op": "replace",
+        "path": "/triplodTreasure/0/1/pool",
+        "value": [
+            {"weight": 0.799, "pool": "robotTreasure"},
+            {"weight": 0.499, "item": "stickofram"},
+            {"weight": 0.499, "item": "staticcell"},
+            {"weight": 0.008, "item": "triplodaf"}
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/crustoiseTreasure/0/1/pool",
+        "value": [
+            {"weight": 0.799, "pool": "noMeatMonsterTreasure"},
+            {"weight": 0.998, "item": "hardenedcarapace"},
+            {"weight": 0.008, "item": "crustoiseaf"}
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/tinticTreasure/0/1/pool",
+        "value": [
+            {"weight": 0.799, "pool": "noMeatMonsterTreasure"},
+            {"weight": 0.998, "item": "hardenedcarapace"},
+            {"weight": 0.008, "item": "tinticaf"}
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/pulpinTreasure/0/1/pool",
+        "value": [
+            {"weight": 0.799, "pool": "basicMonsterTreasure"},
+            {"weight": 0.4, "item": "cryonicextract"},
+            {"weight": 0.004, "item": "pulpinaf"},
+            {"weight": 0.599, "item": "alienmeat"}
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/iguarmorTreasure/0/1/pool",
+        "value": [
+            {"weight": 0.799, "pool": "basicMonsterTreasure"},
+            {"weight": 0.4, "item": "hardenedcarapace"},
+            {"weight": 0.004, "item": "iguarmoraf"},
+            {"weight": 0.599, "item": "alienmeat"}
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/oculobTreasure/0/1/pool",
+        "value": [
+            {"weight": 0.799, "pool": "noMeatMonsterTreasure"},
+            {"weight": 0.998, "item": "venomsample"},
+            {"weight": 0.008, "item": "oculobaf"}
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/snagglerTreasure/0/1/pool",
+        "value": [
+            {"weight": 0.799, "pool": "basicMonsterTreasure"},
+            {"weight": 0.4, "item": "venomsample"},
+            {"weight": 0.004, "item": "snaggleraf"},
+            {"weight": 0.599, "item": "alienmeat"}
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/paraspriteTreasure/0/1/pool",
+        "value": [
+            {"weight": 0.799, "pool": "basicMonsterTreasure"},
+            {"weight": 0.997, "item": "sharpenedclaw"},
+            {"weight": 0.012, "item": "paraspriteaf"}
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/agrobatTreasure/0/1/pool",
+        "value": [
+            {"weight": 0.799, "pool": "flyingMonsterTreasure"},
+            {"weight": 0.4, "item": "leather"},
+            {"weight": 0.004, "item": "agrobataf"},
+            {"weight": 0.599, "item": "rawpoultry"}
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/pteropodTreasure/0/1/pool",
+        "value": [
+            {"weight": 0.799, "pool": "basicMonsterTreasure"},
+            {"weight": 0.4, "item": "venomsample"},
+            {"weight": 0.004, "item": "pteropodaf"},
+            {"weight": 0.599, "item": "alienmeat"}
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/batongTreasure/0/1/pool",
+        "value": [
+            {"weight": 0.799, "pool": "flyingMonsterTreasure"},
+            {"weight": 0.4, "item": "leather"},
+            {"weight": 0.004, "item": "batongaf"},
+            {"weight": 0.599, "item": "rawpoultry"}
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/bobfaeTreasure/0/1/pool",
+        "value": [
+            {"weight": 0.799, "pool": "basicMonsterTreasure"},
+            {"weight": 0.4, "item": "hardenedcarapace"},
+            {"weight": 0.004, "item": "bobfaeaf"},
+            {"weight": 0.599, "item": "alienmeat"}
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/paratailTreasure/0/1/pool",
+        "value": [
+            {"weight": 0.799, "pool": "basicMonsterTreasure"},
+            {"weight": 0.4, "item": "leather"},
+            {"weight": 0.004, "item": "paratailaf"},
+            {"weight": 0.599, "item": "alienmeat"}
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/scandroidTreasure/0/1/pool",
+        "value": [
+            {"weight": 0.799, "pool": "robotTreasure"},
+            {"weight": 0.499, "item": "stickofram"},
+            {"weight": 0.499, "item": "staticcell"},
+            {"weight": 0.008, "item": "scandroidaf"}
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/monopusTreasure/0/1/pool",
+        "value": [
+            {"weight": 0.799, "pool": "basicMonsterTreasure"},
+            {"weight": 0.4, "item": "hardenedcarapace"},
+            {"weight": 0.004, "item": "monopusaf"},
+            {"weight": 0.599, "item": "alienmeat"}
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/spookitTreasure/0/1/pool",
+        "value": [
+            {"weight": 0.799, "pool": "noMeatMonsterTreasure"},
+            {"weight": 0.998, "item": "phasematter"},
+            {"weight": 0.008, "item": "spookitaf"}
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/wisperTreasure/0/1/pool",
+        "value": [
+            {"weight": 0.799, "pool": "noMeatMonsterTreasure"},
+            {"weight": 0.499, "item": "cryonicextract"},
+            {"weight": 0.499, "item": "phasematter"},
+            {"weight": 0.008, "item": "wisperaf"}
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/gosmetTreasure/0/1/pool",
+        "value": [
+            {"weight": 0.799, "pool": "noMeatMonsterTreasure"},
+            {"weight": 0.998, "item": "phasematter"},
+            {"weight": 0.008, "item": "gosmetaf"}
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/squeemTreasure/0/1/pool",
+        "value": [
+            {"weight": 0.799, "pool": "basicMonsterTreasure"},
+            {"weight": 0.4, "item": "phasematter"},
+            {"weight": 0.004, "item": "squeemaf"},
+            {"weight": 0.599, "item": "alienmeat"}
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/lumothTreasure/0/1/pool",
+        "value": [
+            {"weight": 0.799, "pool": "robotTreasure"},
+            {"weight": 0.499, "item": "staticcell"},
+            {"weight": 0.499, "item": "phasematter"},
+            {"weight": 0.008, "item": "lumothaf"}
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/pyromantleTreasure/0/1/pool",
+        "value": [
+            {"weight": 0.799, "pool": "noMeatMonsterTreasure"},
+            {"weight": 0.998, "item": "scorchedcore"},
+            {"weight": 0.008, "item": "pyromantleaf"}
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/skimbusTreasure/0/1/pool",
+        "value": [
+            {"weight": 0.799, "pool": "noMeatMonsterTreasure"},
+            {"weight": 0.499, "item": "cryonicextract"},
+            {"weight": 0.499, "item": "phasematter"},
+            {"weight": 0.008, "item": "skimbusaf"}
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/ignomeTreasure/0/1/pool",
+        "value": [
+            {"weight": 0.799, "pool": "noMeatMonsterTreasure"},
+            {"weight": 0.499, "item": "scorchedcore"},
+            {"weight": 0.499, "item": "phasematter"},
+            {"weight": 0.008, "item": "ignomeaf"}
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/nautileechTreasure/0/1/pool",
+        "value": [
+            {"weight": 0.8, "pool": "noMeatMonsterTreasure"},
+            {"weight": 1.0, "item": "phasematter"}
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/crabcanoTreasure/0/1/pool",
+        "value": [
+            {"weight": 0.799, "pool": "basicMonsterTreasure"},
+            {"weight": 0.2, "item": "scorchedcore"},
+            {"weight": 0.2, "item": "hardenedcarapace"},
+            {"weight": 0.004, "item": "crabcanoaf"},
+            {"weight": 0.599, "item": "alienmeat"}
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/narfinTreasure/0/1/pool",
+        "value": [
+            {"weight": 0.799, "pool": "basicMonsterTreasure"},
+            {"weight": 0.4, "item": "cryonicextract"},
+            {"weight": 0.004, "item": "narfinaf"},
+            {"weight": 0.599, "item": "alienmeat"}
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/lilodonTreasure/0/1/pool",
+        "value": [
+            {"weight": 0.799, "pool": "basicMonsterTreasure"},
+            {"weight": 0.4, "item": "sharpenedclaw"},
+            {"weight": 0.004, "item": "lilodonaf"},
+            {"weight": 0.599, "item": "alienmeat"}
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/petricubTreasure/0/1/pool",
+        "value": [
+            {"weight": 0.799, "pool": "basicMonsterTreasure"},
+            {"weight": 0.4, "item": "sharpenedclaw"},
+            {"weight": 0.004, "item": "petricubaf"},
+            {"weight": 0.599, "item": "alienmeat"}
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/scaveranTreasure/0/1/pool",
+        "value": [
+            {"weight": 0.799, "pool": "flyingMonsterTreasure"},
+            {"weight": 0.4, "item": "sharpenedclaw"},
+            {"weight": 0.004, "item": "scaveranaf"},
+            {"weight": 0.599, "item": "rawpoultry"}
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/nutmidgelingTreasure/0/1/pool",
+        "value": [
+            {"weight": 0.799, "pool": "noMeatMonsterTreasure"},
+            {"weight": 0.998, "item": "livingroot"},
+            {"weight": 0.008, "item": "nutmidgeaf"}
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/adultpoptopTreasure/0/1/pool",
+        "value": [
+            {"weight": 0.799, "pool": "basicMonsterTreasure"},
+            {"weight": 0.4, "item": "sharpenedclaw"},
+            {"weight": 0.004, "item": "adultpoptopaf"},
+            {"weight": 0.599, "item": "alienmeat"}
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/peblitTreasure/0/1/pool",
+        "value": [
+            {"weight": 0.799, "pool": "noMeatMonsterTreasure"},
+            {"weight": 0.998, "item": "hardenedcarapace"},
+            {"weight": 0.008, "item": "peblitaf"}
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/poptopTreasure/0/1/pool",
+        "value": [
+            {"weight": 0.799, "pool": "basicMonsterTreasure"},
+            {"weight": 0.4, "item": "sharpenedclaw"},
+            {"weight": 0.004, "item": "poptopaf"},
+            {"weight": 0.599, "item": "alienmeat"}
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/snauntTreasure/0/1/pool",
+        "value": [
+            {"weight": 0.799, "pool": "basicMonsterTreasure"},
+            {"weight": 0.2, "item": "venomsample"},
+            {"weight": 0.2, "item": "hardenedcarapace"},
+            {"weight": 0.004, "item": "snauntaf"},
+            {"weight": 0.599, "item": "alienmeat"}
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/anglureTreasure/0/1/pool",
+        "value": [
+            {"weight": 0.799, "pool": "basicMonsterTreasure"},
+            {"weight": 0.4, "item": "staticcell"},
+            {"weight": 0.004, "item": "anglureaf"},
+            {"weight": 0.599, "item": "alienmeat"}
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/ringramTreasure/0/1/pool",
+        "value": [
+            {"weight": 0.799, "pool": "basicMonsterTreasure"},
+            {"weight": 0.4, "item": "leather"},
+            {"weight": 0.004, "item": "ringramaf"},
+            {"weight": 0.599, "item": "alienmeat"}
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/fennixTreasure/0/1/pool",
+        "value": [
+            {"weight": 0.799, "pool": "basicMonsterTreasure"},
+            {"weight": 0.2, "item": "scorchedcore"},
+            {"weight": 0.2, "item": "sharpenedclaw"},
+            {"weight": 0.004, "item": "fennixaf"},
+            {"weight": 0.599, "item": "alienmeat"}
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/capricoatTreasure/0/1/pool",
+        "value": [
+            {"weight": 0.799, "pool": "basicMonsterTreasure"},
+            {"weight": 0.4, "item": "leather"},
+            {"weight": 0.004, "item": "capricoataf"},
+            {"weight": 0.599, "item": "alienmeat"}
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/voltipTreasure/0/1/pool",
+        "value": [
+            {"weight": 0.799, "pool": "noMeatMonsterTreasure"},
+            {"weight": 0.998, "item": "staticcell"},
+            {"weight": 0.008, "item": "voltipaf"}
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/snuffishTreasure/0/1/pool",
+        "value": [
+            {"weight": 0.799, "pool": "largefishtreasure"},
+            {"weight": 0.4, "item": "cryonicextract"},
+            {"weight": 0.004, "item": "snuffishaf"},
+            {"weight": 0.599, "item": "rawfish"}
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/miasmopTreasure/0/1/pool",
+        "value": [
+            {"weight": 0.799, "pool": "noMeatMonsterTreasure"},
+            {"weight": 0.499, "item": "venomsample"},
+            {"weight": 0.499, "item": "livingroot"},
+            {"weight": 0.008, "item": "miasmopaf"}
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/crutterTreasure/0/1/pool",
+        "value": [
+            {"weight": 0.799, "pool": "basicMonsterTreasure"},
+            {"weight": 0.4, "item": "venomsample"},
+            {"weight": 0.004, "item": "crutteraf"},
+            {"weight": 0.599, "item": "alienmeat"}
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/ooglerTreasure/0/1/pool",
+        "value": [
+            {"weight": 0.799, "pool": "basicMonsterTreasure"},
+            {"weight": 0.2, "item": "leather"},
+            {"weight": 0.2, "item": "sharpenedclaw"},
+            {"weight": 0.004, "item": "oogleraf"},
+            {"weight": 0.599, "item": "alienmeat"}
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/bobotTreasure/0/1/pool",
+        "value": [
+            {"weight": 0.799, "pool": "robotTreasure"},
+            {"weight": 0.499, "item": "stickofram"},
+            {"weight": 0.499, "item": "staticcell"},
+            {"weight": 0.008, "item": "bobotaf"}
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/quagmuttTreasure/0/1/pool",
+        "value": [
+            {"weight": 0.799, "pool": "basicMonsterTreasure"},
+            {"weight": 0.4, "item": "venomsample"},
+            {"weight": 0.001, "item": "quagmuttaf"},
+            {"weight": 0.599, "item": "alienmeat"},
+            {"weight": 0.004, "item": "guagmuttaf"}
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/orbideTreasure/0/1/pool",
+        "value": [
+            {"weight": 0.799, "pool": "noMeatMonsterTreasure"},
+            {"weight": 0.998, "item": "sharpenedclaw"},
+            {"weight": 0.008, "item": "orbideaf"}
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/taroniTreasure/0/1/pool",
+        "value": [
+            {"weight": 0.799, "pool": "basicMonsterTreasure"},
+            {"weight": 0.4, "item": "leather"},
+            {"weight": 0.004, "item": "taroniaf"},
+            {"weight": 0.599, "item": "alienmeat"}
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/smoglinTreasure/0/1/pool",
+        "value": [
+            {"weight": 0.799, "pool": "basicMonsterTreasure"},
+            {"weight": 0.4, "item": "scorchedcore"},
+            {"weight": 0.004, "item": "smoglinaf"},
+            {"weight": 0.599, "item": "alienmeat"}
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/mandrafloraTreasure/0/1/pool",
+        "value": [
+            {"weight": 0.799, "pool": "noMeatMonsterTreasure"},
+            {"weight": 0.998, "item": "livingroot"},
+            {"weight": 0.008, "item": "mandrafloraaf"}
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/pipkinTreasure/0/1/pool",
+        "value": [
+            {"weight": 0.799, "pool": "noMeatMonsterTreasure"},
+            {"weight": 0.998, "item": "stickofram"},
+            {"weight": 0.008, "item": "pipkinaf"}
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/trictusTreasure/0/1/pool",
+        "value": [
+            {"weight": 0.799, "pool": "basicMonsterTreasure"},
+            {"weight": 0.4, "item": "livingroot"},
+            {"weight": 0.004, "item": "trictusaf"},
+            {"weight": 0.599, "item": "alienmeat"}
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/bulbopTreasure/0/1/pool",
+        "value": [
+            {"weight": 0.799, "pool": "noMeatMonsterTreasure"},
+            {"weight": 0.998, "item": "livingroot"},
+            {"weight": 0.008, "item": "bulbopaf"}
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/sporgusTreasure/0/1/pool",
+        "value": [
+            {"weight": 0.799, "pool": "noMeatMonsterTreasure"},
+            {"weight": 0.998, "item": "venomsample"},
+            {"weight": 0.008, "item": "sporgusaf"}
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/toumingoTreasure/0/1/pool",
+        "value": [
+            {"weight": 0.799, "pool": "flyingMonsterTreasure"},
+            {"weight": 0.4, "item": "sharpenedclaw"},
+            {"weight": 0.004, "item": "toumingoaf"},
+            {"weight": 0.599, "item": "rawpoultry"}
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/yokatTreasure/0/1/pool",
+        "value": [
+            {"weight": 0.799, "pool": "basicMonsterTreasure"},
+            {"weight": 0.4, "item": "sharpenedclaw"},
+            {"weight": 0.004, "item": "yokataf"},
+            {"weight": 0.599, "item": "alienmeat"}
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/hypnareTreasure/0/1/pool",
+        "value": [
+            {"weight": 0.799, "pool": "noMeatMonsterTreasure"},
+            {"weight": 0.998, "item": "livingroot"},
+            {"weight": 0.008, "item": "hypnareaf"}
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/gleapTreasure/0/1/pool",
+        "value": [
+            {"weight": 0.799, "pool": "noMeatMonsterTreasure"},
+            {"weight": 0.998, "item": "livingroot"},
+            {"weight": 0.008, "item": "gleapaf"}
+        ]
+    }
+]

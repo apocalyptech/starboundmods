@@ -50,6 +50,18 @@ increases their probability by 3x.
 Iron is one of the harder resources to accumulate, so this bumps its quantity
 by about 1.5x.
 
+## No Need to Hunt
+
+Folds the hunting loot pools into the "main" loot pools for creatures, so that
+hunting-specific weapons are mostly useless.  Technically the hunting-specific
+drop rates will be a little less than what hunting weapons use, since the
+creatures still drop their non-hunting loot, too, but it should be better than
+stock.  Chances for action figures have been buffed a bit as well, for the
+creature types that the mod touches.
+
+This mod's generated with `generate.py` and requires an uncompressed vanilla
+data package to do its stuff.  Various paths are hardcoded in the code.
+
 ## Omega Augment
 
 An augment for your EPP which includes literally every augment status effect.

@@ -1,0 +1,9 @@
+{
+ "version" : "1.00",
+ "friendlyName" : "No Need to Hunt",
+ "link" : "",
+ "steamContentId" : "",
+ "name" : "No Need to Hunt",
+ "description" : "Folds the 'hunting' monster loot pools into the non-hunting pools, so that hunting items like bows are superfluous.  Technically the hunting-specific drop rates are a little worse than if you were using hunting weapons, but they will continue to drop from the non-hunting pools as well.  Additionally, action figure drops have been buffed slightly (at least for the creatures this mod touches).",
+ "author" : "CJ Kucera"
+}
