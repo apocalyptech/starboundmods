@@ -28,6 +28,12 @@ probabilities of some specific fossils, to complete my collection without
 as much fuss.  Won't do you any good unless you happen to be missing the
 last few that I was missing.
 
+## Infinity Express Meat Market
+
+Tired of "farming" for raw meats?  They'll all be available for sale at
+Infinity Express now.  (Includes Raw Tentacles, even though those are
+effectively useless.)
+
 ## More Boneboo
 
 Boneboo was the hardest seed type for me to find -- I'd been to many Bones

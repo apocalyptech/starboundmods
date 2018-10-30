@@ -1,0 +1,22 @@
+[
+    {
+        "op": "add",
+        "path": "/interactData/items/-",
+        "value": { "item": "rawpoultry" }
+    },
+    {
+        "op": "add",
+        "path": "/interactData/items/-",
+        "value": { "item": "rawfish" }
+    },
+    {
+        "op": "add",
+        "path": "/interactData/items/-",
+        "value": { "item": "alienmeat" }
+    },
+    {
+        "op": "add",
+        "path": "/interactData/items/-",
+        "value": { "item": "rawtentacle" }
+    }
+]
