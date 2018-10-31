@@ -28,6 +28,17 @@ probabilities of some specific fossils, to complete my collection without
 as much fuss.  Won't do you any good unless you happen to be missing the
 last few that I was missing.
 
+## Guaranteed Creatures
+
+Not for general-purpose use (and in fact as-is, the mod does nothing).  Used
+this to force some specific unique creature types to spawn, when completing
+my pets collection.
+
+## Guaranteed Space Encounters
+
+Not for general-purpose use (and in fact as-is, the mod does nothing).  Used
+to force some specific space encounters to pop up.
+
 ## Infinity Express Meat Market
 
 Tired of "farming" for raw meats?  They'll all be available for sale at

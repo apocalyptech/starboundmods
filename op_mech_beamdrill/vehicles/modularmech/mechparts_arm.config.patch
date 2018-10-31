@@ -19,8 +19,13 @@
     },
     {
         "op": "replace",
+        "path": "/beamdrill/partParameters/beamHeight",
+        "value": 10
+    },
+    {
+        "op": "replace",
         "path": "/beamdrill/partParameters/beamTileDamage",
-        "value": 12
+        "value": 24
     },
     {
         "op": "replace",
