@@ -281,7 +281,7 @@
     },
     {
         "op": "replace",
-        "path": "/pools/arctic/common",
+        "path": "/pools/magma/common",
         "value": [
             {
               "monster" : "fishingstripe",
