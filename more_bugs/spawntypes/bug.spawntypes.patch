@@ -1,0 +1,217 @@
+[
+    {
+        "op": "replace",
+        "path": "/0/spawnChance",
+        "value": 0.025
+    },
+    {
+        "op": "replace",
+        "path": "/1/spawnChance",
+        "value": 0.025
+    },
+    {
+        "op": "replace",
+        "path": "/2/spawnChance",
+        "value": 0.025
+    },
+    {
+        "op": "replace",
+        "path": "/3/spawnChance",
+        "value": 0.025
+    },
+    {
+        "op": "replace",
+        "path": "/4/spawnChance",
+        "value": 0.025
+    },
+    {
+        "op": "replace",
+        "path": "/5/spawnChance",
+        "value": 0.025
+    },
+    {
+        "op": "replace",
+        "path": "/6/spawnChance",
+        "value": 0.025
+    },
+    {
+        "op": "replace",
+        "path": "/7/spawnChance",
+        "value": 0.025
+    },
+    {
+        "op": "replace",
+        "path": "/8/spawnChance",
+        "value": 0.025
+    },
+    {
+        "op": "replace",
+        "path": "/9/spawnChance",
+        "value": 0.025
+    },
+    {
+        "op": "replace",
+        "path": "/10/spawnChance",
+        "value": 0.025
+    },
+    {
+        "op": "replace",
+        "path": "/11/spawnChance",
+        "value": 0.025
+    },
+    {
+        "op": "replace",
+        "path": "/12/spawnChance",
+        "value": 0.025
+    },
+    {
+        "op": "replace",
+        "path": "/13/spawnChance",
+        "value": 0.025
+    },
+    {
+        "op": "replace",
+        "path": "/14/spawnChance",
+        "value": 0.025
+    },
+    {
+        "op": "replace",
+        "path": "/15/spawnChance",
+        "value": 0.025
+    },
+    {
+        "op": "replace",
+        "path": "/16/spawnChance",
+        "value": 0.025
+    },
+    {
+        "op": "replace",
+        "path": "/17/spawnChance",
+        "value": 0.025
+    },
+    {
+        "op": "replace",
+        "path": "/18/spawnChance",
+        "value": 0.025
+    },
+    {
+        "op": "replace",
+        "path": "/19/spawnChance",
+        "value": 0.025
+    },
+    {
+        "op": "replace",
+        "path": "/20/spawnChance",
+        "value": 0.025
+    },
+    {
+        "op": "replace",
+        "path": "/21/spawnChance",
+        "value": 0.025
+    },
+    {
+        "op": "replace",
+        "path": "/22/spawnChance",
+        "value": 0.025
+    },
+    {
+        "op": "replace",
+        "path": "/23/spawnChance",
+        "value": 0.025
+    },
+    {
+        "op": "replace",
+        "path": "/24/spawnChance",
+        "value": 0.025
+    },
+    {
+        "op": "replace",
+        "path": "/25/spawnChance",
+        "value": 0.025
+    },
+    {
+        "op": "replace",
+        "path": "/26/spawnChance",
+        "value": 0.025
+    },
+    {
+        "op": "replace",
+        "path": "/27/spawnChance",
+        "value": 0.025
+    },
+    {
+        "op": "replace",
+        "path": "/28/spawnChance",
+        "value": 0.025
+    },
+    {
+        "op": "replace",
+        "path": "/29/spawnChance",
+        "value": 0.025
+    },
+    {
+        "op": "replace",
+        "path": "/30/spawnChance",
+        "value": 0.025
+    },
+    {
+        "op": "replace",
+        "path": "/31/spawnChance",
+        "value": 0.025
+    },
+    {
+        "op": "replace",
+        "path": "/32/spawnChance",
+        "value": 0.025
+    },
+    {
+        "op": "replace",
+        "path": "/33/spawnChance",
+        "value": 0.025
+    },
+    {
+        "op": "replace",
+        "path": "/34/spawnChance",
+        "value": 0.025
+    },
+    {
+        "op": "replace",
+        "path": "/35/spawnChance",
+        "value": 0.025
+    },
+    {
+        "op": "replace",
+        "path": "/36/spawnChance",
+        "value": 0.025
+    },
+    {
+        "op": "replace",
+        "path": "/37/spawnChance",
+        "value": 0.025
+    },
+    {
+        "op": "replace",
+        "path": "/38/spawnChance",
+        "value": 0.025
+    },
+    {
+        "op": "replace",
+        "path": "/39/spawnChance",
+        "value": 0.025
+    },
+    {
+        "op": "replace",
+        "path": "/40/spawnChance",
+        "value": 0.025
+    },
+    {
+        "op": "replace",
+        "path": "/41/spawnChance",
+        "value": 0.025
+    },
+    {
+        "op": "replace",
+        "path": "/42/spawnChance",
+        "value": 0.025
+    }
+]

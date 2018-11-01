@@ -1,0 +1,372 @@
+[
+    {
+        "op": "replace",
+        "path": "/biasDropPerSpawn",
+        "value": 0
+    },
+    {
+        "op": "replace",
+        "path": "/initialBias",
+        "value": 0.3
+    },
+    {
+        "op": "replace",
+        "path": "/pools/ocean/common",
+        "value": [
+            {
+              "monster" : "fishingjerk",
+              "day" : true,
+              "night" : true,
+              "shallow" : true,
+              "deep" : true
+            },
+            {
+              "monster" : "fishingdirt",
+              "day" : true,
+              "night" : true,
+              "shallow" : true,
+              "deep" : true
+            },
+            {
+              "monster" : "fishingchomp",
+              "day" : true,
+              "night" : true,
+              "shallow" : true,
+              "deep" : true
+            },
+            {
+              "monster" : "fishingfunny",
+              "day" : true,
+              "night" : true,
+              "shallow" : true, 
+              "deep" : true
+            },
+            {
+              "monster" : "fishingfrill",
+              "day" : true,
+              "night" : true,
+              "shallow" : true,
+              "deep" : true
+            },
+            {
+              "monster" : "fishingsquare",
+              "day" : true,
+              "night" : true,
+              "shallow" : true,
+              "deep" : true
+            },
+            {
+              "monster" : "fishingjaw",
+              "day" : true,
+              "night" : true,
+              "shallow" : true,
+              "deep" : true
+            },
+            {
+              "monster" : "fishingsunbeam",
+              "day" : true,
+              "night" : true,
+              "shallow" : true,
+              "deep" : true
+            },
+            {
+              "monster" : "fishingtongue",
+              "day" : true,
+              "night" : true,
+              "shallow" : true,
+              "deep" : true
+            },
+            {
+              "monster" : "fishinghoop",
+              "day" : true,
+              "night" : true,
+              "shallow" : true,
+              "deep" : true
+            },
+            {
+              "monster" : "fishingworm",
+              "day" : true,
+              "night" : true,
+              "shallow" : true,
+              "deep" : true
+            },
+            {
+              "monster" : "fishingchuckle",
+              "day" : true,
+              "night" : true,
+              "shallow" : true,
+              "deep" : true
+            }
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/pools/toxic/common",
+        "value": [
+            {
+              "monster" : "fishingredeye",
+              "day" : true,
+              "night" : true,
+              "shallow" : true,
+              "deep" : true
+            },
+            {
+              "monster" : "fishingspot",
+              "day" : true,
+              "night" : true,
+              "shallow" : true,
+              "deep" : true
+            },
+            {
+              "monster" : "fishingglob",
+              "day" : true,
+              "night" : true,
+              "shallow" : true,
+              "deep" : true
+            },
+            {
+              "monster" : "fishingcute",
+              "day" : true,
+              "night" : true,
+              "shallow" : true,
+              "deep" : true
+            },
+            {
+              "monster" : "fishingshell",
+              "day" : true,
+              "night" : true,
+              "shallow" : true,
+              "deep" : true
+            },
+            {
+              "monster" : "fishingnose",
+              "day" : true,
+              "night" : true,
+              "shallow" : true,
+              "deep" : true
+            },
+            {
+              "monster" : "fishingclaw",
+              "day" : true,
+              "night" : true,
+              "shallow" : true,
+              "deep" : true
+            },
+            {
+              "monster" : "fishingcurl",
+              "day" : true,
+              "night" : true,
+              "shallow" : true,
+              "deep" : true
+            },
+            {
+              "monster" : "fishingeel",
+              "day" : true,
+              "night" : true,
+              "shallow" : true,
+              "deep" : true
+            },
+            {
+              "monster" : "fishingfan",
+              "day" : true,
+              "night" : true,
+              "shallow" : true,
+              "deep" : true
+            },
+            {
+              "monster" : "fishingsac",
+              "day" : true,
+              "night" : true,
+              "shallow" : true,
+              "deep" : true
+            },
+            {
+              "monster" : "fishingdark",
+              "day" : true,
+              "night" : true,
+              "shallow" : true,
+              "deep" : true
+            }
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/pools/arctic/common",
+        "value": [
+            {
+              "monster" : "fishingspear",
+              "day" : true,
+              "night" : true,
+              "shallow" : true,
+              "deep" : true
+            },
+            {
+              "monster" : "fishingramp",
+              "day" : true,
+              "night" : true,
+              "shallow" : true,
+              "deep" : true
+            },
+            {
+              "monster" : "fishingsaber",
+              "day" : true,
+              "night" : true,
+              "shallow" : true,
+              "deep" : true
+            },
+            {
+              "monster" : "fishingseal",
+              "day" : true,
+              "night" : true,
+              "shallow" : true,
+              "deep" : true
+            },
+            {
+              "monster" : "fishingwhisker",
+              "day" : true,
+              "night" : true,
+              "shallow" : true,
+              "deep" : true
+            },
+            {
+              "monster" : "fishingchirp",
+              "day" : true,
+              "night" : true,
+              "shallow" : true,
+              "deep" : true
+            },
+            {
+              "monster" : "fishingwimp",
+              "day" : true,
+              "night" : true,
+              "shallow" : true,
+              "deep" : true
+            },
+            {
+              "monster" : "fishingswindle",
+              "day" : true,
+              "night" : true,
+              "shallow" : true,
+              "deep" : true
+            },
+            {
+              "monster" : "fishingbulb",
+              "day" : true,
+              "night" : true,
+              "shallow" : true,
+              "deep" : true
+            },
+            {
+              "monster" : "fishinggaze",
+              "day" : true,
+              "night" : true,
+              "shallow" : true,
+              "deep" : true
+            },
+            {
+              "monster" : "fishingfang",
+              "day" : true,
+              "night" : true,
+              "shallow" : true,
+              "deep" : true
+            },
+            {
+              "monster" : "fishingbreach",
+              "day" : true,
+              "night" : true,
+              "shallow" : true,
+              "deep" : true
+            }
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/pools/arctic/common",
+        "value": [
+            {
+              "monster" : "fishingstripe",
+              "day" : true,
+              "night" : true,
+              "shallow" : true,
+              "deep" : true
+            },
+            {
+              "monster" : "fishingtendril",
+              "day" : true,
+              "night" : true,
+              "shallow" : true,
+              "deep" : true
+            },
+            {
+              "monster" : "fishingtad",
+              "day" : true,
+              "night" : true,
+              "shallow" : true,
+              "deep" : true
+            },
+            {
+              "monster" : "fishingpuff",
+              "day" : true,
+              "night" : true,
+              "shallow" : true,
+              "deep" : true
+            },
+            {
+              "monster" : "fishingleech",
+              "day" : true,
+              "night" : true,
+              "shallow" : true,
+              "deep" : true
+            },
+            {
+              "monster" : "fishingdart",
+              "day" : true,
+              "night" : true,
+              "shallow" : true,
+              "deep" : true
+            },
+            {
+              "monster" : "fishingeye",
+              "day" : true,
+              "night" : true,
+              "shallow" : true,
+              "deep" : true
+            },
+            {
+              "monster" : "fishingpincer",
+              "day" : true,
+              "night" : true,
+              "shallow" : true,
+              "deep" : true
+            },
+            {
+              "monster" : "fishingshrimp",
+              "day" : true,
+              "night" : true,
+              "shallow" : true,
+              "deep" : true
+            },
+            {
+              "monster" : "fishingray",
+              "day" : true,
+              "night" : true,
+              "shallow" : true,
+              "deep" : true
+            },
+            {
+              "monster" : "fishingdragon",
+              "day" : true,
+              "night" : true,
+              "shallow" : true,
+              "deep" : true
+            },
+            {
+              "monster" : "fishingmega",
+              "day" : true,
+              "night" : true,
+              "shallow" : true,
+              "deep" : true
+            }
+        ]
+    }
+]

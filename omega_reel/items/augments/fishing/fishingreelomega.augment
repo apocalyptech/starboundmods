@@ -1,0 +1,22 @@
+{
+  "itemName" : "fishingreelomega",
+  "price" : 2000,
+  "rarity" : "Legendary",
+  "tooltipKind" : "fishingupgrade",
+  "category" : "fishingReel",
+  "inventoryIcon" : "reelomega.png",
+  "description" : "A reel that has boundless abilities.",
+  "shortdescription" : "Omega Reel",
+
+  "reelType" : "omega",
+  "reelName" : "Omega Reel",
+  "reelIcon" : "/items/augments/fishing/reelomega.png",
+  "reelParameters" : {
+    "reelOutLength" : 60,
+    "lineBreakMargin" : 10,
+    "reelSpeed" : 60,
+    "lineBreakTime" : 2.0
+  },
+
+  "scripts" : [ "/scripts/augments/fishing.lua" ]
+}

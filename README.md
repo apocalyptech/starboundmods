@@ -21,6 +21,16 @@ dir, which finds all the crafting recipes in an unpacked Starbound asset dir
 and creates the `.patch` files appropriately.  Source/Dest dirs are hardcoded
 at the top.
 
+## Flat Fishing
+
+"Flattens" the fishing minigame in a couple of ways.  First, it makes all
+fish equally probable, so a legendary fish is just as likely as a common
+one (even on the first fishing attempt).  Secondly, day/night and water
+depth no longer make any difference.  The only real restriction which is
+still in effect is that fish will still only spawn in their original
+biome.  Fish also keep their default behavior when presented with the
+lure.
+
 ## Fossil Tweaks
 
 This one's not actually general-purpose; I'd just used it to alter the
@@ -51,6 +61,11 @@ Boneboo was the hardest seed type for me to find -- I'd been to many Bones
 biomes, but there was never Boneboo there.  Anyway, this mod increases
 Boneboo density within Bones biomes, which let it pop right up on the next
 one I visited.
+
+## More Bugs
+
+Increases the spawn rate of all bug types.  They should be present nearly
+all the time.  No more wandering around for ages looking for 'em!
 
 ## More Durasteel
 
@@ -86,6 +101,18 @@ Very balanced!  Doesn't drop anywhere ingame, so it must be spawned manually
 while in admin mode, with `/spawnitem omegaaugment`.  Note that the effects
 stack a bit weirdly in water - you'll fall rather slowly, and rise/jump
 *very* quickly.  You'll be launching yourself in the air from puddles.
+
+## Omega Lure
+
+A fishing lure which combines all three advanced lure types into a single
+lure.  Doesn't actually drop anywhere -- it must be spawned with
+`/spawnitem fishinglureomega` in admin mode.
+
+## Omega Reel
+
+A fishing reel which combines all three advanced reel types into a single
+reel.  Doesn't actually drop anywhere -- it must be spawned with
+`/spawnitem fishingreelomega` in admin mode.
 
 ## OP Mech Beam Drill
 

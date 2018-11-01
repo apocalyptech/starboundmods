@@ -1,0 +1,9 @@
+{
+ "version" : "1.00",
+ "friendlyName" : "Flat Fishing",
+ "link" : "",
+ "steamContentId" : "",
+ "name" : "Flat Fishing",
+ "description" : "Flattens the fishing experience in a few ways.  First, fish all spawn in equal frequencies (so a legendary fish is just as likely as a common fish).  Secondly, day/night and depth no longer make a difference.  Fish will still be restricted to their original biomes, though.",
+ "author" : "CJ Kucera"
+}

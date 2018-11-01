@@ -1,0 +1,17 @@
+{
+  "itemName" : "fishinglureomega",
+  "price" : 2000,
+  "rarity" : "Legendary",
+  "tooltipKind" : "fishingupgrade",
+  "category" : "fishingLure",
+  "inventoryIcon" : "lureomega.png",
+  "description" : "A lure with almost incalculable abilities.",
+  "shortdescription" : "Omega Lure",
+
+  "lureType" : "omega",
+  "lureName" : "Omega Lure",
+  "lureIcon" : "/items/augments/fishing/lureomega.png",
+  "lureProjectile" : "fishinglureomega",
+
+  "scripts" : [ "/scripts/augments/fishing.lua" ]
+}
