@@ -151,6 +151,14 @@ Not for general-purpose use (and in fact as-is, the mod does nothing).  Used
 this to force some specific unique creature types to spawn, when completing
 my pets collection.
 
+## Specific Dungeons
+
+Forces dungeons on newly-generated planets to be of the given types.  Generated
+via a `generate.py` script in the mod's main dir - specify the dungeon IDs as
+arguments.  Tries to increase the number of dungeons that will get generated,
+too, though I'm not sure if that bit actually works very well.  Does not touch
+ocean/toxic/arctic/magma worlds.
+
 ## Specific Fossils
 
 This one's not actually general-purpose; I'd just used it to alter the

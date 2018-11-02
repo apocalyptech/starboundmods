@@ -1,0 +1,77 @@
+[
+    {
+        "op": "test",
+        "path": "/planetSizes/verysmall/layerDefaults/dungeonCountRange",
+        "value": [3, 3]
+    },
+    {
+        "op": "test",
+        "path": "/planetSizes/small/layerDefaults/dungeonCountRange",
+        "value": [3, 3]
+    },
+    {
+        "op": "test",
+        "path": "/planetSizes/medium/layerDefaults/dungeonCountRange",
+        "value": [3, 6]
+    },
+    {
+        "op": "test",
+        "path": "/planetSizes/large/layerDefaults/dungeonCountRange",
+        "value": [6, 9]
+    },
+    {
+        "op": "test",
+        "path": "/planetTypes/garden/layers/surface/dungeons",
+        "value": [[1.0, "humancamp"], [1.0, "hylotlvillage"], [1.0, "avianairship"], [1.0, "apexcity"], [1.0, "aviantomb"], [1.0, "apexbase"], [1.0, "floranhutvillage"]]
+    },
+    {
+        "op": "test",
+        "path": "/planetTypes/forest/layers/surface/dungeons",
+        "value": [[1.0, "humancamp"], [1.0, "hylotlvillage"], [1.0, "avianairship"], [1.0, "apexcity"], [1.0, "aviantomb"], [1.0, "apexbase"], [1.0, "floranhutvillage"]]
+    },
+    {
+        "op": "test",
+        "path": "/planetTypes/desert/layers/surface/dungeons",
+        "value": [[1.0, "humancamp"], [1.0, "hylotlvillage"], [1.0, "avianairship"], [1.0, "apexcity"], [1.0, "aviantomb"], [1.0, "apexbase"], [1.0, "floranhutvillage"]]
+    },
+    {
+        "op": "test",
+        "path": "/planetTypes/savannah/layers/surface/dungeons",
+        "value": [[1.0, "humancamp"], [1.0, "hylotlvillage"], [1.0, "avianairship"], [1.0, "apexcity"], [1.0, "aviantomb"], [1.0, "apexbase"], [1.0, "floranhutvillage"]]
+    },
+    {
+        "op": "test",
+        "path": "/planetTypes/snow/layers/surface/dungeons",
+        "value": [[1.0, "humancamp"], [1.0, "hylotlvillage"], [1.0, "avianairship"], [1.0, "apexcity"], [1.0, "aviantomb"], [1.0, "apexbase"], [1.0, "floranhutvillage"]]
+    },
+    {
+        "op": "test",
+        "path": "/planetTypes/jungle/layers/surface/dungeons",
+        "value": [[1.0, "humancamp"], [1.0, "hylotlvillage"], [1.0, "avianairship"], [1.0, "apexcity"], [1.0, "aviantomb"], [1.0, "apexbase"], [1.0, "floranhutvillage"]]
+    },
+    {
+        "op": "test",
+        "path": "/planetTypes/alien/layers/surface/dungeons",
+        "value": [[1.0, "humancamp"], [1.0, "hylotlvillage"], [1.0, "avianairship"], [1.0, "apexcity"], [1.0, "aviantomb"], [1.0, "apexbase"], [1.0, "floranhutvillage"]]
+    },
+    {
+        "op": "test",
+        "path": "/planetTypes/tundra/layers/surface/dungeons",
+        "value": [[1.0, "humancamp"], [1.0, "hylotlvillage"], [1.0, "avianairship"], [1.0, "apexcity"], [1.0, "aviantomb"], [1.0, "apexbase"], [1.0, "floranhutvillage"]]
+    },
+    {
+        "op": "test",
+        "path": "/planetTypes/midnight/layers/surface/dungeons",
+        "value": [[1.0, "humancamp"], [1.0, "hylotlvillage"], [1.0, "avianairship"], [1.0, "apexcity"], [1.0, "aviantomb"], [1.0, "apexbase"], [1.0, "floranhutvillage"]]
+    },
+    {
+        "op": "test",
+        "path": "/planetTypes/volcanic/layers/surface/dungeons",
+        "value": [[1.0, "humancamp"], [1.0, "hylotlvillage"], [1.0, "avianairship"], [1.0, "apexcity"], [1.0, "aviantomb"], [1.0, "apexbase"], [1.0, "floranhutvillage"]]
+    },
+    {
+        "op": "test",
+        "path": "/planetTypes/scorchedcity/layers/surface/dungeons",
+        "value": [[1.0, "humancamp"], [1.0, "hylotlvillage"], [1.0, "avianairship"], [1.0, "apexcity"], [1.0, "aviantomb"], [1.0, "apexbase"], [1.0, "floranhutvillage"]]
+    }
+]

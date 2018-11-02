@@ -1,0 +1,9 @@
+{
+ "version" : "1.00",
+ "friendlyName" : "Specific Dungeons",
+ "link" : "",
+ "steamContentId" : "",
+ "name" : "Specific Dungeons",
+ "description" : "Not a general-purpose mod!  Makes all dungeons on newly-generated planets be of the sort specified.  Also tries to increase the number of dungeons that'll be seen, though that bit seems a bit dodgy.",
+ "author" : "CJ Kucera"
+}
