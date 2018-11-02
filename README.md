@@ -31,24 +31,6 @@ still in effect is that fish will still only spawn in their original
 biome.  Fish also keep their default behavior when presented with the
 lure.
 
-## Fossil Tweaks
-
-This one's not actually general-purpose; I'd just used it to alter the
-probabilities of some specific fossils, to complete my collection without
-as much fuss.  Won't do you any good unless you happen to be missing the
-last few that I was missing.
-
-## Guaranteed Creatures
-
-Not for general-purpose use (and in fact as-is, the mod does nothing).  Used
-this to force some specific unique creature types to spawn, when completing
-my pets collection.
-
-## Guaranteed Space Encounters
-
-Not for general-purpose use (and in fact as-is, the mod does nothing).  Used
-to force some specific space encounters to pop up.
-
 ## Infinity Express Meat Market
 
 Tired of "farming" for raw meats?  They'll all be available for sale at
@@ -153,3 +135,30 @@ compatible with anything else which does the same.  With a bit more work I
 could probably have just made the minigame automatically succeed or something,
 or reduce the covered tiles to a single square or something, but meh.  This
 was good enough.
+
+# Non-General-Purpose mods
+
+These are mods used to flatten out some of the RNG and generate certain things
+I was looking for, having grown a bit sick of waiting for the game to pop them
+up legitimately.  Unless you happen to be looking for the exact same things I
+was looking for, these will be useless.  (These actually tend to get checked in
+with their `replace` operations changed to `test` so that they don't actually
+do *anything* unless you edit them.)
+
+## Specific Creatures
+
+Not for general-purpose use (and in fact as-is, the mod does nothing).  Used
+this to force some specific unique creature types to spawn, when completing
+my pets collection.
+
+## Specific Fossils
+
+This one's not actually general-purpose; I'd just used it to alter the
+probabilities of some specific fossils, to complete my collection without
+as much fuss.  Won't do you any good unless you happen to be missing the
+last few that I was missing.
+
+## Specific Space Encounters
+
+Not for general-purpose use (and in fact as-is, the mod does nothing).  Used
+to force some specific space encounters to pop up.
